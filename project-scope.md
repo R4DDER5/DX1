@@ -26,11 +26,10 @@
 
 ## BRIEF AND OBJECTIVES 
 ### PROJECT BRIEF
-THIS WILL BE THE BRIEF.
+STOCK EXCHANGE OF DATA. ALLOWING AN EASY/SECURE PROCESS TO MANAGE AND MONETIZE PERSONAL DATA. ONE STOP METHOD TO ACCESS INFORMATION REGARDING WHERE DATA IS HELD.
 
 ### PROJECT OVERVIEW
-This will be the project overview
-
+This project will involve the creation of a system which will provide a
 The scope and tasks required to complete this project will follow the time-lines outlined within in order to deliver the components at the associated times. A list of deliverables and assumptions is included herein.
 
 ### PROJECT OBJECTIVES
